@@ -1,7 +1,7 @@
 ## Olá! eu sou o Lucas
 
 - 🔭 Estou estou no 5º semestre de análise e desenvolvimento de sistemas | IFSP 
-- 🌱 Estudando 
+- 🌱 Estudando JavaScript
 - 📫 Contate-me no email: lucas.bandeira@aluno.ifsp.edu.br
 
 <div align="center">
