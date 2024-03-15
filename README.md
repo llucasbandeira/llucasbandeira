@@ -1,8 +1,8 @@
 ## Olá! eu sou o Lucas
 
-- 🔭 Estou estou no 5º semestre de análise e desenvolvimento de sistemas | IFSP 
-- 🌱 Estudando JavaScript
-- 📫 Contate-me no email: lucas.bandeira@aluno.ifsp.edu.br
+- 🔭 Fomado em análise e desenvolvimento de sistemas | IFSP 
+- 🌱 Estudando PowerPlataform
+- 📫 Contate-me no email: lucasabaalmeida@gmail.com
 
 <div align="center">
   <a href="https://github.com/llucasbandeira">
