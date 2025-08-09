@@ -1,5 +1,7 @@
 ## Olá! eu sou o Lucas
-Main Skills:
+
+### Main Skills::
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,python,jquery,git,github,mysql,docker)](https://skillicons.dev)
 <div align="center">
   <a href="https://github.com/llucasbandeira">
